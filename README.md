@@ -7,6 +7,7 @@ Azure Function + IFTTT 即時發送 LINE 通知(已被封印) : https://youtu.be
 - Microsoft Azure Function
 - IFTTT Webhooks
 - LINE Notification
+
 ==============================================  
 
 Speedrun to build your own development environment :  
